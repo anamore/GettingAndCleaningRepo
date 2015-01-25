@@ -7,20 +7,20 @@ Each row contains the average of the different measurements for each subject
 (30 subjects) and each activity (6 activities).
 
 
-Subject (Integer)
-      An identifier of the subject who carried out the experiment.
-         VALUES: 1, 2,..., 30
-Activity (Character)
+* Subject (Integer)
+	An identifier of the subject who carried out the experiment.
+	VALUES: 1, 2,..., 30
+* Activity (Character)
       Activities performed by subjects wearing a smartphone (Samsung 
       Galaxy S II) on the waist
          VALUES:
-		 - WALKING
+	 - WALKING
          - WALKING_UPSTAIRS
          - WALKING_DOWNSTAIRS
          - SITTING
          - STANDING
          - LAYING
-TimeBodyAccelerometerMeanX (numeric, normalised so unitless)
+* TimeBodyAccelerometerMeanX (numeric, normalised so unitless)
       Mean time domain signals from the accelerometer, body acceleration, X direction.
          VALUES: [-1,1]	  
 TimeBodyAccelerometerMeanY  (numeric, normalised so unitless)
