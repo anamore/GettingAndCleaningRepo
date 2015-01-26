@@ -19,203 +19,202 @@ Each row contains the average of the different measurements for each subject
     * SITTING
     * STANDING
     * LAYING
-
 * TimeBodyAccelerometerMeanX (numeric, normalised so unitless)
-      Mean time domain signals from the accelerometer, body acceleration, X direction.
+ * Mean time domain signals from the accelerometer, body acceleration, X direction.
          VALUES: [-1,1]	  
-TimeBodyAccelerometerMeanY  (numeric, normalised so unitless)
-      Mean time domain signals from the accelerometer, body acceleration, Y direction. 
+* TimeBodyAccelerometerMeanY  (numeric, normalised so unitless)
+ * Mean time domain signals from the accelerometer, body acceleration, Y direction. 
          VALUES: [-1,1]	  
-TimeBodyAccelerometerMeanZ  (numeric, normalised so unitless)
-      Mean time domain signals from the accelerometer, body acceleration, Z direction. 
+* TimeBodyAccelerometerMeanZ  (numeric, normalised so unitless)
+ * Mean time domain signals from the accelerometer, body acceleration, Z direction. 
          VALUES: [-1,1]	  
-TimeBodyAccelerometerStdX  (numeric, normalised so unitless)
-      Standard deviation of time domain signals from the accelerometer, body acceleration, X direction. 
+* TimeBodyAccelerometerStdX  (numeric, normalised so unitless)
+ * Standard deviation of time domain signals from the accelerometer, body acceleration, X direction. 
          VALUES: [-1,1]	  
-TimeBodyAccelerometerStdY  (numeric, normalised so unitless)
-      Standard deviation of time domain signals from the accelerometer, body acceleration, Y direction. 
+* TimeBodyAccelerometerStdY  (numeric, normalised so unitless)
+ * Standard deviation of time domain signals from the accelerometer, body acceleration, Y direction. 
          VALUES: [-1,1]	  
-TimeBodyAccelerometerStdZ  (numeric, normalised so unitless)
-      Standard deviation of time domain signals from the accelerometer, body acceleration, Z direction. 
+* TimeBodyAccelerometerStdZ  (numeric, normalised so unitless)
+ * Standard deviation of time domain signals from the accelerometer, body acceleration, Z direction. 
          VALUES: [-1,1]	  
-TimeGravityAccelerometerMeanX  (numeric, normalised so unitless)
+* TimeGravityAccelerometerMeanX  (numeric, normalised so unitless)
       Mean time domain signals from the accelerometer, gravity acceleration, X direction. 
          VALUES: [-1,1]	  
-TimeGravityAccelerometerMeanY  (numeric, normalised so unitless)
+* TimeGravityAccelerometerMeanY  (numeric, normalised so unitless)
       Mean time domain signals from the accelerometer, gravity acceleration, Y direction. 
          VALUES: [-1,1]	  
-TimeGravityAccelerometerMeanZ  (numeric, normalised so unitless)
+* TimeGravityAccelerometerMeanZ  (numeric, normalised so unitless)
       Mean time domain signals from the accelerometer, gravity acceleration, Z direction. 
          VALUES: [-1,1]	  
-TimeGravityAccelerometerStdX  (numeric, normalised so unitless)
+* TimeGravityAccelerometerStdX  (numeric, normalised so unitless)
       Standard deviation of time domain signals from the accelerometer, gravity acceleration, X direction. 
          VALUES: [-1,1]	  
-TimeGravityAccelerometerStdY  (numeric, normalised so unitless)
+* TimeGravityAccelerometerStdY  (numeric, normalised so unitless)
       Standard deviation of time domain signals from the accelerometer, gravity acceleration, Y direction. 
          VALUES: [-1,1]	  
-TimeGravityAccelerometerStdZ  (numeric, normalised so unitless)
+* TimeGravityAccelerometerStdZ  (numeric, normalised so unitless)
       Standard deviation of time domain signals from the accelerometer, gravity acceleration, Z direction. 
          VALUES: [-1,1]	  
-TimeBodyAccelerometerJerkMeanX  (numeric, normalised so unitless)
+* TimeBodyAccelerometerJerkMeanX  (numeric, normalised so unitless)
       Mean time domain signals from the accelerometer, body acceleration, Jerk signal, X direction.
          VALUES: [-1,1]	  
-TimeBodyAccelerometerJerkMeanY  (numeric, normalised so unitless)
+* TimeBodyAccelerometerJerkMeanY  (numeric, normalised so unitless)
       Mean time domain signals from the accelerometer, body acceleration, Jerk signal, Y direction.
          VALUES: [-1,1]	  
-TimeBodyAccelerometerJerkMeanZ  (numeric, normalised so unitless)
+* TimeBodyAccelerometerJerkMeanZ  (numeric, normalised so unitless)
       Mean time domain signals from the accelerometer, body acceleration, Jerk signal, Z direction.
          VALUES: [-1,1]	  
-TimeBodyAccelerometerJerkStdX  (numeric, normalised so unitless)
+* TimeBodyAccelerometerJerkStdX  (numeric, normalised so unitless)
       Standard deviation of time domain signals from the accelerometer, body acceleration, Jerk signal, X direction.
          VALUES: [-1,1]	  
-TimeBodyAccelerometerJerkStdY  (numeric, normalised so unitless)
+* TimeBodyAccelerometerJerkStdY  (numeric, normalised so unitless)
       Standard deviation of time domain signals from the accelerometer, body acceleration, Jerk signal, Y direction.
          VALUES: [-1,1]	  
-TimeBodyAccelerometerJerkStdZ  (numeric, normalised so unitless)
+* TimeBodyAccelerometerJerkStdZ  (numeric, normalised so unitless)
       Standard deviation of time domain signals from the accelerometer, body acceleration, Jerk signal, Z direction.
          VALUES: [-1,1]	  
-TimeBodyGyroscopeMeanX  (numeric, normalised so unitless)
+* TimeBodyGyroscopeMeanX  (numeric, normalised so unitless)
       Mean time domain signals from the gyroscope, body acceleration, X direction.
          VALUES: [-1,1]	  
-TimeBodyGyroscopeMeanY  (numeric, normalised so unitless)
+* TimeBodyGyroscopeMeanY  (numeric, normalised so unitless)
       Mean time domain signals from the gyroscope, body acceleration, Y direction.
          VALUES: [-1,1]	  
-TimeBodyGyroscopeMeanZ  (numeric, normalised so unitless)
+* TimeBodyGyroscopeMeanZ  (numeric, normalised so unitless)
       Mean time domain signals from the gyroscope, body acceleration, Z direction.
          VALUES: [-1,1]	  
-TimeBodyGyroscopeStdX  (numeric, normalised so unitless)
+* TimeBodyGyroscopeStdX  (numeric, normalised so unitless)
       Standard deviation of time domain signals from the gyroscope, body acceleration, X direction.
          VALUES: [-1,1]	  
-TimeBodyGyroscopeStdY  (numeric, normalised so unitless)
+* TimeBodyGyroscopeStdY  (numeric, normalised so unitless)
       Standard deviation of time domain signals from the gyroscope, body acceleration, Y direction.
          VALUES: [-1,1]	  
-TimeBodyGyroscopeStdZ  (numeric, normalised so unitless)
+* TimeBodyGyroscopeStdZ  (numeric, normalised so unitless)
       Standard deviation of time domain signals from the gyroscope, body acceleration, Z direction.
          VALUES: [-1,1]	  
-TimeBodyGyroscopeJerkMeanX  (numeric, normalised so unitless)
+* TimeBodyGyroscopeJerkMeanX  (numeric, normalised so unitless)
       Mean time domain signals from the gyroscope, body acceleration, Jerk signal, X direction.
          VALUES: [-1,1]	  
-TimeBodyGyroscopeJerkMeanY  (numeric, normalised so unitless)
+* TimeBodyGyroscopeJerkMeanY  (numeric, normalised so unitless)
       Mean time domain signals from the gyroscope, body acceleration, Jerk signal, Y direction.
          VALUES: [-1,1]	  
-TimeBodyGyroscopeJerkMeanZ  (numeric, normalised so unitless)
+* TimeBodyGyroscopeJerkMeanZ  (numeric, normalised so unitless)
       Mean time domain signals from the gyroscope, body acceleration, Jerk signal, Z direction.
          VALUES: [-1,1]	  
-TimeBodyGyroscopeJerkStdX  (numeric, normalised so unitless)
+* TimeBodyGyroscopeJerkStdX  (numeric, normalised so unitless)
       Standard deviation of time domain signals from the gyroscope, body acceleration, Jerk signal, X direction.
          VALUES: [-1,1]	  
-TimeBodyGyroscopeJerkStdY  (numeric, normalised so unitless)
+* TimeBodyGyroscopeJerkStdY  (numeric, normalised so unitless)
       Standard deviation of time domain signals from the gyroscope, body acceleration, Jerk signal, Y direction.
          VALUES: [-1,1]	  
-TimeBodyGyroscopeJerkStdZ  (numeric, normalised so unitless)
+* TimeBodyGyroscopeJerkStdZ  (numeric, normalised so unitless)
       Standard deviation of time domain signals from the gyroscope, body acceleration, Jerk signal, Z direction.
          VALUES: [-1,1]	  
-TimeBodyAccelerometerMagnitudeMean  (numeric, normalised so unitless)
+* TimeBodyAccelerometerMagnitudeMean  (numeric, normalised so unitless)
       Mean time domain signals from the accelerometer, body acceleration, magnitude.
          VALUES: [-1,1]	  
-TimeBodyAccelerometerMagnitudeStd  (numeric, normalised so unitless)
+* TimeBodyAccelerometerMagnitudeStd  (numeric, normalised so unitless)
       Standard deviation of time domain signals from the accelerometer, body acceleration, magnitude.
          VALUES: [-1,1]	  
-TimeGravityAccelerometerMagnitudeMean  (numeric, normalised so unitless)
+* TimeGravityAccelerometerMagnitudeMean  (numeric, normalised so unitless)
       Mean time domain signals from the accelerometer, gravity acceleration, magnitude.
          VALUES: [-1,1]	  
-TimeGravityAccelerometerMagnitudeStd  (numeric, normalised so unitless)
+* TimeGravityAccelerometerMagnitudeStd  (numeric, normalised so unitless)
       Standard deviation of time domain signals from the accelerometer, gravity acceleration, magnitude.
          VALUES: [-1,1]	  
-TimeBodyAccelerometerJerkMagnitudeMean  (numeric, normalised so unitless)
+* TimeBodyAccelerometerJerkMagnitudeMean  (numeric, normalised so unitless)
       Mean time domain signals from the accelerometer, body acceleration, Jerk signal, magnitude.
          VALUES: [-1,1]	  
-TimeBodyAccelerometerJerkMagnitudeStd  (numeric, normalised so unitless)
+* TimeBodyAccelerometerJerkMagnitudeStd  (numeric, normalised so unitless)
       Standard deviation of time domain signals from the accelerometer, body acceleration, Jerk signal, magnitude.
          VALUES: [-1,1]	  
-TimeBodyGyroscopeMagnitudeMean  (numeric, normalised so unitless)
+* TimeBodyGyroscopeMagnitudeMean  (numeric, normalised so unitless)
       Mean time domain signals from the gyroscope, body acceleration, magnitude.
          VALUES: [-1,1]	  
-TimeBodyGyroscopeMagnitudeStd  (numeric, normalised so unitless)
+* TimeBodyGyroscopeMagnitudeStd  (numeric, normalised so unitless)
       Standard deviation of time domain signals from the gyroscope, body acceleration, magnitude.
          VALUES: [-1,1]	  
-TimeBodyGyroscopeJerkMagnitudeMean  (numeric, normalised so unitless)
+* TimeBodyGyroscopeJerkMagnitudeMean  (numeric, normalised so unitless)
       Mean time domain signals from the gyroscope, body acceleration, Jerk signal, magnitude.
          VALUES: [-1,1]	  
-TimeBodyGyroscopeJerkMagnitudeStd  (numeric, normalised so unitless)
+* TimeBodyGyroscopeJerkMagnitudeStd  (numeric, normalised so unitless)
       Standard deviation of time domain signals from the gyroscope, body acceleration, Jerk signal, magnitude.
          VALUES: [-1,1]	  
-FrequencyBodyAccelerometerMeanX  (numeric, normalised so unitless)
+* FrequencyBodyAccelerometerMeanX  (numeric, normalised so unitless)
       Mean frequency domain signals from the accelerometer, body acceleration, X direction.
          VALUES: [-1,1]	  
-FrequencyBodyAccelerometerMeanY  (numeric, normalised so unitless)
+* FrequencyBodyAccelerometerMeanY  (numeric, normalised so unitless)
       Mean frequency domain signals from the accelerometer, body acceleration, Y direction.
          VALUES: [-1,1]	  
-FrequencyBodyAccelerometerMeanZ  (numeric, normalised so unitless)
+* FrequencyBodyAccelerometerMeanZ  (numeric, normalised so unitless)
       Mean frequency domain signals from the accelerometer, body acceleration, Z direction.
          VALUES: [-1,1]	  
-FrequencyBodyAccelerometerStdX  (numeric, normalised so unitless)
+* FrequencyBodyAccelerometerStdX  (numeric, normalised so unitless)
       Standard deviation of frequency domain signals from the accelerometer, body acceleration, X direction. 
          VALUES: [-1,1]	  
-FrequencyBodyAccelerometerStdY  (numeric, normalised so unitless)
+* FrequencyBodyAccelerometerStdY  (numeric, normalised so unitless)
       Standard deviation of frequency domain signals from the accelerometer, body acceleration, Y direction. 
          VALUES: [-1,1]	  
-FrequencyBodyAccelerometerStdZ  (numeric, normalised so unitless)
+* FrequencyBodyAccelerometerStdZ  (numeric, normalised so unitless)
       Standard deviation of frequency domain signals from the accelerometer, body acceleration, Z direction. 
          VALUES: [-1,1]	  
-FrequencyBodyAccelerometerJerkMeanX  (numeric, normalised so unitless)
+* FrequencyBodyAccelerometerJerkMeanX  (numeric, normalised so unitless)
       Mean frequency domain signals from the accelerometer, body acceleration, Jerk signal, X direction.
          VALUES: [-1,1]	  
-FrequencyBodyAccelerometerJerkMeanY  (numeric, normalised so unitless)
+* FrequencyBodyAccelerometerJerkMeanY  (numeric, normalised so unitless)
       Mean frequency domain signals from the accelerometer, body acceleration, Jerk signal, Y direction.
          VALUES: [-1,1]	  
-FrequencyBodyAccelerometerJerkMeanZ  (numeric, normalised so unitless)
+* FrequencyBodyAccelerometerJerkMeanZ  (numeric, normalised so unitless)
       Mean frequency domain signals from the accelerometer, body acceleration, Jerk signal, Z direction.
          VALUES: [-1,1]	  
-FrequencyBodyAccelerometerJerkStdX  (numeric, normalised so unitless)
+* FrequencyBodyAccelerometerJerkStdX  (numeric, normalised so unitless)
       Standard deviation of frequency domain signals from the accelerometer, body acceleration, Jerk signal, X direction.
          VALUES: [-1,1]	  
-FrequencyBodyAccelerometerJerkStdY  (numeric, normalised so unitless)
+* FrequencyBodyAccelerometerJerkStdY  (numeric, normalised so unitless)
       Standard deviation of frequency domain signals from the accelerometer, body acceleration, Jerk signal, Y direction.
          VALUES: [-1,1]	  
-FrequencyBodyAccelerometerJerkStdZ  (numeric, normalised so unitless)
+* FrequencyBodyAccelerometerJerkStdZ  (numeric, normalised so unitless)
       Standard deviation of frequency domain signals from the accelerometer, body acceleration, Jerk signal, Z direction.
          VALUES: [-1,1]	  
-FrequencyBodyGyroscopeMeanX  (numeric, normalised so unitless)
+* FrequencyBodyGyroscopeMeanX  (numeric, normalised so unitless)
       Mean frequency domain signals from the gyroscope, body acceleration, X direction.
          VALUES: [-1,1]	  
-FrequencyBodyGyroscopeMeanY  (numeric, normalised so unitless)
+* FrequencyBodyGyroscopeMeanY  (numeric, normalised so unitless)
       Mean frequency domain signals from the gyroscope, body acceleration, Y direction.
          VALUES: [-1,1]	  
-FrequencyBodyGyroscopeMeanZ  (numeric, normalised so unitless)
+* FrequencyBodyGyroscopeMeanZ  (numeric, normalised so unitless)
       Mean frequency domain signals from the gyroscope, body acceleration, Z direction.
          VALUES: [-1,1]	  
-FrequencyBodyGyroscopeStdX  (numeric, normalised so unitless)
+* FrequencyBodyGyroscopeStdX  (numeric, normalised so unitless)
       Standard deviation of frequency domain signals from the gyroscope, body acceleration, X direction.
          VALUES: [-1,1]	  
-FrequencyBodyGyroscopeStdY  (numeric, normalised so unitless)
+* FrequencyBodyGyroscopeStdY  (numeric, normalised so unitless)
       Standard deviation of frequency domain signals from the gyroscope, body acceleration, Y direction.
          VALUES: [-1,1]	  
-FrequencyBodyGyroscopeStdZ  (numeric, normalised so unitless)
+* FrequencyBodyGyroscopeStdZ  (numeric, normalised so unitless)
       Standard deviation of frequency domain signals from the gyroscope, body acceleration, Z direction.
          VALUES: [-1,1]	  
-FrequencyBodyAccelerometerMagnitudeMean  (numeric, normalised so unitless)
+* FrequencyBodyAccelerometerMagnitudeMean  (numeric, normalised so unitless)
       Mean frequency domain signals from the accelerometer, body acceleration, magnitude.
          VALUES: [-1,1]	  
-FrequencyBodyAccelerometerMagnitudeStd  (numeric, normalised so unitless)
+* FrequencyBodyAccelerometerMagnitudeStd  (numeric, normalised so unitless)
       Standard deviation of frequency domain signals from the accelerometer, body acceleration, magnitude.
          VALUES: [-1,1]	  
-FrequencyBodyAccelerometerJerkMagnitudeMean  (numeric, normalised so unitless)
+* FrequencyBodyAccelerometerJerkMagnitudeMean  (numeric, normalised so unitless)
       Mean frequency domain signals from the accelerometer, body acceleration, Jerk signal, magnitude.
          VALUES: [-1,1]	  
-FrequencyBodyAccelerometerJerkMagnitudeStd  (numeric, normalised so unitless)
+* FrequencyBodyAccelerometerJerkMagnitudeStd  (numeric, normalised so unitless)
       Standard deviation of frequency domain signals from the accelerometer, body acceleration, Jerk signal, magnitude.
          VALUES: [-1,1]	  
-FrequencyBodyGyroscopeMagnitudeMean  (numeric, normalised so unitless)
+* FrequencyBodyGyroscopeMagnitudeMean  (numeric, normalised so unitless)
       Mean frequency domain signals from the gyroscope, body acceleration, magnitude.
          VALUES: [-1,1]	  
-FrequencyBodyGyroscopeMagnitudeStd  (numeric, normalised so unitless)
+* FrequencyBodyGyroscopeMagnitudeStd  (numeric, normalised so unitless)
       Standard deviation of frequency domain signals from the gyroscope, body acceleration, magnitude.
          VALUES: [-1,1]	  
-FrequencyBodyGyroscopeJerkMagnitudeMean  (numeric, normalised so unitless)
+* FrequencyBodyGyroscopeJerkMagnitudeMean  (numeric, normalised so unitless)
       Mean frequency domain signals from the gyroscope, body acceleration, Jerk signal, magnitude.
          VALUES: [-1,1]	  
-FrequencyBodyGyroscopeJerkMagnitudeStd (numeric, normalised so unitless)
+* FrequencyBodyGyroscopeJerkMagnitudeStd (numeric, normalised so unitless)
       Standard deviation of frequency domain signals from the gyroscope, body acceleration, Jerk signal, magnitude.
          VALUES: [-1,1]	  
 
