@@ -8,10 +8,10 @@ Each row contains the average of the different measurements for each subject
 
 * Subject (Integer)
  * An identifier of the subject who carried out the experiment.
-  * VALUES: 1, 2,..., 30
+ * VALUES: 1, 2,..., 30
 * Activity (Character)
  * Activities performed by subjects wearing a smartphone (Samsung Galaxy S II) on the waist
-  * VALUES:
+ * VALUES:
     * WALKING
     * WALKING_UPSTAIRS
     * WALKING_DOWNSTAIRS
